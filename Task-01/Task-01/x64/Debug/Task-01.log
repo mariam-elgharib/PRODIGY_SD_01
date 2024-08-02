@@ -1,4 +1,0 @@
-﻿  Task-01.cpp
-C:\Users\Marium\Desktop\Prodigy InfoTech\Task-01\Task-01\Task-01.cpp(41,6): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-C:\Users\Marium\Desktop\Prodigy InfoTech\Task-01\Task-01\Task-01.cpp(51,6): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  Task-01.vcxproj -> C:\Users\Marium\Desktop\Prodigy InfoTech\Task-01\x64\Debug\Task-01.exe
